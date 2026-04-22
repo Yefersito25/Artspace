@@ -23,7 +23,7 @@ function renderGallery(filtro = 'all') {
     
     galleryGrid.innerHTML = filtradas.map(obra => `
         <div class="gallery-item" data-id="${obra.id}">
-            <img src="${obra.img}" alt="${obra.titulo}" loading="lazy">
+            <img src="${obra.img}" alt="${obra.titulo}" loading="lazy" onerror="this.src='https://picsum.photos/id/20/500/500'">
             <div class="gallery-overlay">
                 <h3>${obra.titulo}</h3>
                 <p>${obra.desc}</p>
