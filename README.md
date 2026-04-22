@@ -12,8 +12,7 @@
 
 ![Vista previa de ArtSpace](vista-previa.png)
 
-> 🔗 **Ver proyecto en vivo:** (https://yefersito25.github.io/Artspace/)
-
+> 🔗 **Ver proyecto en vivo:** [https://yefersito25.github.io/artspace/](https://yefersito25.github.io/artspace/)
 ---
 
 ## 📖 Descripción
