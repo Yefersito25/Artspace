@@ -2,15 +2,69 @@
 // 1. Datos de la galería (simula una API)
 // ============================================
 const obras = [
-    { id: 1, titulo: "Horizonte en llamas", categoria: "pintura", img: "https://images.unsplash.com/photo-1579783902614-a3fb3927b6a5?q=80&w=500", desc: "Óleo sobre lienzo, 2024" },
-    { id: 2, titulo: "Naturaleza líquida", categoria: "pintura", img: "https://images.unsplash.com/photo-1578301978693-85fa9c0320b9?q=80&w=500", desc: "Acrílico y resina, 2023" },
-    { id: 3, titulo: "Ser digital #7", categoria: "digital", img: "https://images.unsplash.com/photo-1541701494587-cb58502866ab?q=80&w=500", desc: "Arte generativo, 2025" },
-    { id: 4, titulo: "Raíces", categoria: "escultura", img: "https://images.unsplash.com/photo-1562300870-e44f1c0a6f38?q=80&w=500", desc: "Madera reciclada, 2024" },
-    { id: 5, titulo: "Caos armónico", categoria: "digital", img: "https://images.unsplash.com/photo-1558591710-4b4a1ae0f04d?q=80&w=500", desc: "Render 3D, 2025" },
-    { id: 6, titulo: "Efímero", categoria: "pintura", img: "https://images.unsplash.com/photo-1579783901586-d88db74b4fe4?q=80&w=500", desc: "Mixta sobre tela, 2024" },
-    { id: 7, titulo: "Resiliencia", categoria: "escultura", img: "https://images.unsplash.com/photo-1558980664-3a031f67ad9c?q=80&w=500", desc: "Metal reciclado, 2023" },
-    { id: 8, titulo: "Fractal emocional", categoria: "digital", img: "https://images.unsplash.com/photo-1563089145-5998f5c5bf3c?q=80&w=500", desc: "Arte algorítmico, 2025" },
-    { id: 9, titulo: "Maternidad tierra", categoria: "pintura", img: "https://images.unsplash.com/photo-1578301978693-85fa9c0320b9?q=80&w=500", desc: "Acrílico y hoja de oro, 2024" }
+    { 
+        id: 1, 
+        titulo: "Horizonte en llamas", 
+        categoria: "pintura", 
+        img: "https://images.pexels.com/photos/1585320/art-artistic-artist-canvas-1585320.jpg?auto=compress&cs=tinysrgb&w=600", 
+        desc: "Óleo sobre lienzo, 2024 - 120x90cm" 
+    },
+    { 
+        id: 2, 
+        titulo: "Naturaleza líquida", 
+        categoria: "pintura", 
+        img: "https://images.pexels.com/photos/2797466/pexels-photo-2797466.jpeg?auto=compress&cs=tinysrgb&w=600", 
+        desc: "Acrílico y resina, 2023 - 100x80cm" 
+    },
+    { 
+        id: 3, 
+        titulo: "El jardín interior", 
+        categoria: "pintura", 
+        img: "https://images.pexels.com/photos/1585322/art-artist-canvas-color-1585322.jpg?auto=compress&cs=tinysrgb&w=600", 
+        desc: "Mixta sobre tela, 2024 - 90x120cm" 
+    },
+    { 
+        id: 4, 
+        titulo: "Ser digital #7", 
+        categoria: "digital", 
+        img: "https://images.pexels.com/photos/2101813/pexels-photo-2101813.jpeg?auto=compress&cs=tinysrgb&w=600", 
+        desc: "Arte generativo, 2025 - Impresión fine art" 
+    },
+    { 
+        id: 5, 
+        titulo: "Caos armónico", 
+        categoria: "digital", 
+        img: "https://images.pexels.com/photos/3768435/pexels-photo-3768435.jpeg?auto=compress&cs=tinysrgb&w=600", 
+        desc: "Render 3D, 2025 - Edición limitada" 
+    },
+    { 
+        id: 6, 
+        titulo: "Fractal emocional", 
+        categoria: "digital", 
+        img: "https://images.pexels.com/photos/1933790/pexels-photo-1933790.jpeg?auto=compress&cs=tinysrgb&w=600", 
+        desc: "Arte algorítmico, 2025 - NFT disponible" 
+    },
+    { 
+        id: 7, 
+        titulo: "Raíces", 
+        categoria: "escultura", 
+        img: "https://images.pexels.com/photos/1653046/pexels-photo-1653046.jpeg?auto=compress&cs=tinysrgb&w=600", 
+        desc: "Madera reciclada, 2024 - 45x35x20cm" 
+    },
+    { 
+        id: 8, 
+        titulo: "Resiliencia", 
+        categoria: "escultura", 
+        img: "https://images.pexels.com/photos/2010963/pexels-photo-2010963.jpeg?auto=compress&cs=tinysrgb&w=600", 
+        desc: "Metal reciclado, 2023 - 80x40x30cm" 
+    },
+    { 
+        id: 9, 
+        titulo: "Efímero", 
+        categoria: "escultura", 
+        img: "https://images.pexels.com/photos/2057473/pexels-photo-2057473.jpeg?auto=compress&cs=tinysrgb&w=600", 
+        desc: "Cerámica esmaltada, 2024 - 30x25x15cm" 
+    }
 ];
 
 // ============================================
