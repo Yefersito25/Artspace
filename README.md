@@ -4,7 +4,7 @@
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/es/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/es/docs/Web/JavaScript)
 
-[![Demo en vivo](https://img.shields.io/badge/🌐-Ver_Demo_en_vivo-c47a44?style=for-the-badge)](https://yefersito25.github.io/artspace/)
+[![Demo en vivo](https://img.shields.io/badge/🌐-Ver_Demo_en_vivo-c47a44?style=for-the-badge)](https://yefersito25.github.io/Artspace/)
 
 ---
 
@@ -12,7 +12,7 @@
 
 ![Vista previa de ArtSpace](vista-previa.png)
 
-> 🔗 **Ver proyecto en vivo:** [https://yefersito25.github.io/artspace/](https://yefersito25.github.io/artspace/)
+> 🔗 **Ver proyecto en vivo:** [https://yefersito25.github.io/artspace/](https://yefersito25.github.io/Artspace/)
 ---
 
 ## 📖 Descripción
