@@ -6,63 +6,63 @@ const obras = [
         id: 1, 
         titulo: "Horizonte en llamas", 
         categoria: "pintura", 
-        img: "https://images.pexels.com/photos/1585320/art-artistic-artist-canvas-1585320.jpg?auto=compress&cs=tinysrgb&w=600", 
+        img: "https://picsum.photos/id/101/500/500",  // Paisaje con montañas
         desc: "Óleo sobre lienzo, 2024 - 120x90cm" 
     },
     { 
         id: 2, 
         titulo: "Naturaleza líquida", 
         categoria: "pintura", 
-        img: "https://images.pexels.com/photos/2797466/pexels-photo-2797466.jpeg?auto=compress&cs=tinysrgb&w=600", 
+        img: "https://picsum.photos/id/104/500/500",  // Agua y rocas
         desc: "Acrílico y resina, 2023 - 100x80cm" 
     },
     { 
         id: 3, 
         titulo: "El jardín interior", 
         categoria: "pintura", 
-        img: "https://images.pexels.com/photos/1585322/art-artist-canvas-color-1585322.jpg?auto=compress&cs=tinysrgb&w=600", 
+        img: "https://picsum.photos/id/96/500/500",   // Campo de flores
         desc: "Mixta sobre tela, 2024 - 90x120cm" 
     },
     { 
         id: 4, 
         titulo: "Ser digital #7", 
         categoria: "digital", 
-        img: "https://images.pexels.com/photos/2101813/pexels-photo-2101813.jpeg?auto=compress&cs=tinysrgb&w=600", 
+        img: "https://picsum.photos/id/20/500/500",   // Escritorio con computadora
         desc: "Arte generativo, 2025 - Impresión fine art" 
     },
     { 
         id: 5, 
         titulo: "Caos armónico", 
         categoria: "digital", 
-        img: "https://images.pexels.com/photos/3768435/pexels-photo-3768435.jpeg?auto=compress&cs=tinysrgb&w=600", 
+        img: "https://picsum.photos/id/26/500/500",   // Patrón geométrico
         desc: "Render 3D, 2025 - Edición limitada" 
     },
     { 
         id: 6, 
         titulo: "Fractal emocional", 
         categoria: "digital", 
-        img: "https://images.pexels.com/photos/1933790/pexels-photo-1933790.jpeg?auto=compress&cs=tinysrgb&w=600", 
+        img: "https://picsum.photos/id/18/500/500",   // Naturaleza abstracta
         desc: "Arte algorítmico, 2025 - NFT disponible" 
     },
     { 
         id: 7, 
         titulo: "Raíces", 
         categoria: "escultura", 
-        img: "https://images.pexels.com/photos/1653046/pexels-photo-1653046.jpeg?auto=compress&cs=tinysrgb&w=600", 
+        img: "https://picsum.photos/id/155/500/500",  // Tronco de árbol
         desc: "Madera reciclada, 2024 - 45x35x20cm" 
     },
     { 
         id: 8, 
         titulo: "Resiliencia", 
         categoria: "escultura", 
-        img: "https://images.pexels.com/photos/2010963/pexels-photo-2010963.jpeg?auto=compress&cs=tinysrgb&w=600", 
+        img: "https://picsum.photos/id/92/500/500",   // Estructura metálica
         desc: "Metal reciclado, 2023 - 80x40x30cm" 
     },
     { 
         id: 9, 
         titulo: "Efímero", 
         categoria: "escultura", 
-        img: "https://images.pexels.com/photos/2057473/pexels-photo-2057473.jpeg?auto=compress&cs=tinysrgb&w=600", 
+        img: "https://picsum.photos/id/169/500/500",  // Piedras y arena
         desc: "Cerámica esmaltada, 2024 - 30x25x15cm" 
     }
 ];
